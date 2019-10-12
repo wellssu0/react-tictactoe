@@ -1,5 +1,6 @@
 截图
-![image](https://github.com/wellssu0/react-tictactoe/image/屏幕截图(181).png)
+![image] ( https://github.com/wellssu0/react-tictactoe/image/屏幕截图(181).png )
+
 
 
 
