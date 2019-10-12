@@ -1,6 +1,6 @@
 截图
 
-![imge] (https://github.com/wellssu0/react-tictactoe/image/qqq.png)
+![image] (https://github.com/wellssu0/react-tictactoe/blob/maste/image/qqq.png)
 
 
 
