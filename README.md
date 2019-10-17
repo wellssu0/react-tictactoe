@@ -1,6 +1,6 @@
 截图 在线地址http://nasx8d2koiiy.leanapp.cn/
 
-![image](https://github.com/wellssu0/react-tictactoe/blob/master/image/qqq.png)
+![image](https://github.com/wellssu0/react-tictactoe/blob/master/image/shot1.png)
 
 
 
