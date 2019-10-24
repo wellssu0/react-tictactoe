@@ -1,30 +1,10 @@
+## 井字棋小游戏
+
 在线预览地址http://nasx8d2koiiy.leanapp.cn/
 
 ![image](https://github.com/wellssu0/react-tictactoe/blob/master/image/shot1.png)
+![image](https://github.com/wellssu0/react-tictactoe/blob/master/image/1.png)
+![image](https://github.com/wellssu0/react-tictactoe/blob/master/image/2.png)
+![image](https://github.com/wellssu0/react-tictactoe/blob/master/image/3.png)
 
 
-
-
-
-
-
-
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
- feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
